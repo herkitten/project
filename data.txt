@@ -1,473 +1,157 @@
 What are unit cells?; They are the smallest/simplest ‘repeating units’ of the material
-
-
 What is the definition of coordination Numbers (CN)?; It is the number of nearest neighbour atoms surrounding a whole/full atom
-
-
 Name a type of unit cell and list their corresponding number of whole atoms in the unit cell (n).; Face-centred cubic (FCC) n=4 OR Body-centred cubic (BCC) n=2 OR Hexagonal close-packed (HCP) n=6
-
-
 Name a type of unit cell and list their corresponding coordination number (CN); Face-centred cubic (FCC) CN=12 OR Body-centred cubic (BCC) CN=8 OR Hexagonal close-packed (HCP) CN=12
-
-
 Name a type of unit cell and list their corresponding atomic packing factor(APF); Face-centred cubic (FCC) APF=0.74 OR Body-centred cubic (BCC) APF=0.68 OR Hexagonal close-packed (HCP) APF=0.74
-
-
 What is the family of directions?; It means that the spacing of atoms along each direction is the same.
-
-
 In a cubic system are [100] and [010]  equivalent, true or false?; True 
-
-
 Plane should pass through the selected origin, true or false?; False, if the plane passes through the selected origin then choose a new origin. 
-
-
 A Plane that is parallel to an axis has an infinite intercept, true or false?; True.
-
-
 What is a family of planes? ; It has all planes that are crystallographically equivalent, same atomic packing.
-
-
 In a cubic system, planes in the family of planes have the same indices, irrespective of order and sign are equivalent, true or false.; True. 
-
-
 (312) part of {123} family, true or false?; True.
-
-
 There can be more than one origin point in a unit cell, true or false.; False, there can only be one origin point in a unit cell, hence, directions and planes have to be found with respect to the same origin point. 
-
-
 What is the arrangement and orientation of the single crystalline material?; They have repeated arrangement of atoms extending throughout the whole specimen without disruption, with all unit cells interlocking in the same way and have the same orientation.
-
-
 Single crystals can be produced artificially, true or false.; True
-
-
 Polycrystalline materials are a collection of many single crystals of the same orientation, true or false.; False, they are a collection of many single crystals of different orientation 
-
-
-What is the grain boundary?; It is the region where two crystals meet and show atomic mismatch is called grain boundary. 
- 
-  In x-ray diffraction, When a beam of x-ray impinges on a solid the beam will be scattered in the same direction, and at a certain angle the beam is in-phase and produces an amplified signal, true or false.; False. In x-ray diffraction, When a beam of x-ray impinges on a solid the beam will be scattered in all directions, and at a certain angle the beam is in-phase and will produce an amplified signal.
-
-
+What is the grain boundary?; It is the region where two crystals meet and show atomic mismatch is called grain boundary.
+In x-ray diffraction, When a beam of x-ray impinges on a solid the beam will be scattered in the same direction, and at a certain angle the beam is in-phase and produces an amplified signal, true or false.; False. In x-ray diffraction, When a beam of x-ray impinges on a solid the beam will be scattered in all directions, and at a certain angle the beam is in-phase and will produce an amplified signal.
 The types of imperfections are point defect, linear defect, plane defect, and interfacial defects. True or false.; False, there is no plane defect. 
-
-
 List any point defect.; Vacancy, or self-interstitial, or impurities. 
-
-
 What is the definition of vacancy, which is a type of point defect.; It is a void space in solid because of the missing atoms during solidification or (due to ) atomic vibration. 
-
-
 Self interstitial, a type of point defect, is common, true or false.; False, vacancy, the type of point defect is common. Self-interstitial, a type of point defect  is rare.
-
-
 What is the difference between substitutional or interstitial impurities?; In substitutional impurities, impurity atoms replaced or substitutional the host atoms, while in interstitial impurities, the impurity atoms occupy the interstitial site of the host atoms. 
-
-
 List any two factors determining the formation of impurity defects?; Atomic size factor OR Crystal structure OR Electronegativity OR Same Valence 
-
-
 The same valence is the most important factor for the formation of substitutional defects, true or false.; False, same valence is the least important factor, most important factor is 士 15% difference in atomic radii.
-
-
 Define Linear defects.; Dislocation is a linear or one-dimensional defect around which some atoms are misaligned. 
-
-
 The type of linear defects are edge dislocation, screw dislocation, turning dislocation, true or false.; False, the type of linear defects are edge dislocation, screw dislocation and mixed dislocation. 
-
-
 Edge dislocation is a linear defect which centres along the end of an ____ of atoms.; Extra half-plane
-
-
 Mixed dislocation has both turning dislocation or edge dislocation in crystalline solids, true or false.; False, as mixed dislocation has both edge dislocation or screw dislocation in crystalline solids
-
-
 What is the definition of phase boundaries?; A phase boundary is a surface between two different samples of matter that are in contact with each other.
-
-
 List examples of bulk or volume defects.; Pores (air gap) OR Cracks OR Foreign inclusions OR Additional phases
-
-
 Diffusion is a phenomenon of material transport by atomic motion, that has a stepwise migration of atoms and is time dependent, true or false.; True 
-
-
 List the types of diffusion.; Inter-diffusion and Self-diffusion 
-
-
 What is the difference between inter-diffusion and self-diffusion?; Inter-diffusion, where atoms of impurity metal diffuse into host metal, while in self- diffusion, host atoms exchange positions. 
-
-
 List the two conditions for diffusion.; There has to be an empty adjacent lattice site AND the atoms has to gain enough vibrational energy to break bonds 
-
-
 The two diffusion mechanisms are vacancy diffusion and interstitial diffusion, true or false.; True. 
-
-
 What is the definition of vacancy diffusion?; When an atom (host or impurity) moves from a normal lattice position to an adjacent vacancy.
-
-
 If diffusion flux, J, changes with time, a steady-state condition exists, true or false.; False, If diffusion flux J does not change with time, a steady-state condition exists. 
-
-
 List the factors affecting the rate of diffusion.; The atomic radius of diffusing species, packing 
-
-
 What is the formula of stress and strain?; Stress= force/area and Strain= change in length/original length 
-
-
 What is the definition of anelasticity?; It is the time taken for the complete recovery from its elastic deformation. 
-
-
 Why is the safety factor used?; It is applied to ensure that the material is not subjected to its limit, which is the yield point. 
-
-
 What are the two types of deformations?; Elastic and plastic deformation. 
-
-
 Define elastic deformation.; It is the degree to which a structure deforms or strains depends on the magnitude of an imposed stress and is not permanent. 
-
-
 Reducing or hindering the mobility of dislocation, reduces hardness and strength of the material, true or false.: False. Reducing or hindering the mobility of dislocation, enhances hardness and strength of the material. 
-
-
 What is the strengthening mechanism of metal?; We can restrict or hinder the movement of dislocation. 
-
-
 Is totally stopping the movement of dislocation ideal in metals?; No, as stopping dislocation completely will cause brittle characteristics to occur. 
-
-
 List 2 techniques to strengthen metals?; Any two: Grain size reduction OR Solid -solution alloying OR Phase transformation OR Strain hardening OR Second phase particles/ precipitation hardening 
-
-
 How does grain size reduction increase strength in metals?; As boundary areas increase as grain size reduces, motion of dislocation is slowed down around the grain boundary due to different orientation of adjacent grain in metals and atomic disorder around the boundary. 
-
-
 Is fine-grain or coarse grain stronger?; Fine grain. 
-
-
 How does solid-solution hardening increase strength and hardness in metals?; Alloying with impurity atoms increases the concentration of impurity results in interaction between dislocation and impurity atoms. Hence restricting the dislocation motion results in increase in strength (tensile and yield) and also hardness.
-
-
 How do impurities increase strength in metals?; As alloying atoms are of different size compared to the host atoms, thus straining the crystal. Hence, this strain feld can interact with a moving dislocation, thus hindering its movement. And/Or The alloying atoms may diffuse to the dislocation to reduce their strain energy, which requires more energy to move. 
-
-
 When tensile and yield strength increases , ductility increases, true or false.; False. When tensile and yield strength increases , ductility decreases. 
-
-
 What is the definition of Strain hardening/ work hardening?; Metals become harder and stronger as they are plastically deformed at a temperature lower than their melting point, usually at room temperature. 
-
-
-How does strain hardening increase strength?; After plastically deforming the material -> an increase in the dislocation density as the number of dislocations increases and the distance between the dislocations decreases.  
+How does strain hardening increase strength?; After plastically deforming the material -> an increase in the dislocation density as the number of dislocations increases and t distance between the dislocations decreases.  
 Also as dislocation interactions are repulsive-> dislocation movement hinders-> increase in dislocations=> movement will be more restricted. Hence led to increase in strength. 
-
-
 Properties of cold working be reverted back to pre cold-worked states, true or false.; True
-
-
 Define annealing.; It is a process of heating the steel slightly above or below the critical temperature of steel and allowing it to cool very slowly. 
-
-
 List the three stages of the annealing process in order.; Recovery, Recrystallization, Grain growth
-
-
 List 3 advantages of annealing.: Any three: It softens the steel OR It enhances and improves the machinability of steel OR It increases the ductility of steel OR It improves the homogeneity in steel OR The grain size of the steel become more equiaxed OR It prepares the steel for further heat treatment OR Eliminates dislocation
-
-
 Define alloy.; A pure metal to which other elements have been added.
-
-
 What are the phases present in an isomorphous system.; Solid phase: solid solution. Liquid phase: homogeneous liquid solution. Two phases : both liquid and solid phase co-exist. 
-
-
 A non-equilibrium solidification will result in a different chemical composition at the centre and surface, why does this happen?; It is due to fast cooling, where there was insufficient time for diffusion of the atoms to happen resulting in surrounding areas consisting of layers of the solid containing less of the higher melting point metal. 
-
-
 Why is cored structure undesirable?; Affect the mechanical properties of metal AND/OR Reduce corrosion resistance 
-
-
 What are some methods to avoid a cored structure?; Slow down the cooling rate AND/OR Use the homogenisation heat treatment 
-
-
 What is the eutectic point?; It is where the single liquid is transformed simultaneously into two solid forms. 
-
-
-
-
 What is the composition of Hypereutectoid steel?; More than 0.76 wt% C
-
-
 What is the composition of Hypoeutectoid steel?; Less than 0.76 wt% C
-
-
 Does cementite exist by itself?; No
-
-
 What are the steps of  the Austenite to pearlite transformation?; First,diffusion of carbon atoms then formation of cementite then transformation of FCC to BCC iron then formation of the alternating layer of ferrite and cementite 
-
-
 What is the process of phase transformation?; Heating, holding and cooling to get desired mechanical properties. 
-
-
 What are the three stages of phase transformation?; Nucleation, Growth and Coarsening 
-
-
 What is the relationship between the chemical driving force, temperature and rate of pearlite formation?; Lower the temperature, higher the chemical driving force, faster the rate of formation of pearlite 
-
-
-
-
-
-
 What is the percentage transformation used when calculating the rate of transformation?; 50%
-
-
 What phase will hypoeutectoid steel have in slow cooling?; Proeutectoid ferrite and pearlite
-
-
 What phase will eutectoid steel have in slow cooling?; Pearlite
-
-
 What phase will hypereutectoid steel have in slow cooling?; Proeutectoid cementite and pearlite
-
-
 What phase will austenite have after fast cooling?; Bainite or martensite 
-
-
 What are the properties of martensite?; High hardness and strength but brittle. 
-
-
 What is one difference between bainite and pearlite.; Bainite forms at a lower temperature than pearlite OR Bainite is stronger and harder but less ductile than pearlite. 
-
-
 Martensite formation is a diffusional process, true or false.; False, as martensite formation is not a diffusional process
-
-
 How does the carbon content affect the temperature of martensite formation?; The higher the carbon content, the lower the temperature of martensite formation
-
-
 Define hardenability.; Hardenability is the ability to form martensite
-
-
 Define good hardenability.; Good hardenability is defined as a large the distance of the martensite layer. 
-
-
 List 2 factors affecting hardenability.; Carbon content OR cooling rate OR type of quenching medium OR material size and geometry OR amount and type of alloying elements
-
-
 Why does bainite have more strength and hardness than pearlite?; This is because bainite has finer grains than pearlite. 
-
-
 What phases are in tempered martensite?; It has two phases ferrite and cementite, where the cementite phase is distributed in a continuous ferrite phase. 
-
-
 List the steel phase in increasing strength.; Ferrite < Pearlite < Austenite < Bainite < Tempered Martensite < Martensite 
-
-
 How do elements added increase hardness in tool steel?; Due to formation of alloy carbides, secondary hardening. 
-
-
 What are the steps in secondary hardening?; Heat, Quench and Age
-
-
 During secondary hardening, is zone 3/θ desired?; No, as this means that the steel is overaged, and the strength and hardness decreases.
-
-
 List two disadvantages when using steel.; Poor scaling OR Poor corrosion resistance OR High density OR Low conductivity
-
-
 What are the main constituents of steel?; Iron and carbon. 
-
-
 Name 3 elements commonly added to steel.; Manganese (Mn) OR Nickel (Ni) OR Chromium (Cr) OR Molybdenum (Mo) OR Tungsten (W) OR Vanadium (V) OR Copper (Cu) OR Boron (B) OR Aluminium (Al)
-
-
 Most alloying elements shift the TTT/CCT diagram to the right except Cr, true or false?; False, most alloying elements shift the TTT/ CCT diagram to the right except Co.
-
-
 Why do we alloy the elements to steel, list 2 reasons.; Increase strength and toughness OR Improve hardenability OR Increase corrosion resistance OR Improve high temperature properties
-
-
 What elements have a greater effect for solid solution strengthening and why?; Mn and Ni have a greater effect as they are both FCC stabilisers.
-
-
 Why is carbide formation good in steel?; Carbides provide high temperature strength. 
-
-
 What element forms the hardest carbide?; Vanadium  
-
-
 What elements do not increase the temperature of austenite formation?; Ni and Mn as they are FCC stabilisers. 
-
-
 Why is sulfur undesirable in steel?; Sulfur causes hot shortness as FeS inclusion at grain boundaries soften the material and melt easily, which hence leads to cracking. 
-
-
 What can be done to overcome hot shortness in steel?; It can be overcomed by adding Mn. 
-
-
 Sulfur and phosphorus are always present in steel, true or false?; True
-
-
- Why is phosphorus undesirable in steel?; It leads to cold shortness, hence resulting in reduction in impact strength at low temperatures. 
-
-
+Why is phosphorus undesirable in steel?; It leads to cold shortness, hence resulting in reduction in impact strength at low temperatures. 
 List two reasons why nickel is added to steel.; Increase toughness OR Increase strength OR Increase hardenability OR Increase impact strength at low temperature OR In higher amounts, reduce corrosion of high Cr steels
-
-
 How much manganese is added for the steel to be hadfield steel.; 11 to 15% 
-
-
 Chromium is a carbide former, true or false?; True
-
-
 More than 4% of chromium is added for steels to become stainless, true or false.; False, as more than 4% leads to decreased corrosion
- 
 When is steel considered to be stainless?; When there is more than 12% chromium
-
-
 What element is the easiest carbide former?; Ti .
-
-
 State one property of low carbon steels?; Low strength OR Good machinability OR High ductility and formability OR Unresponsive to heat treatment
-
-
 What is free cutting steel?; ‘easy to cut steel’, it has high machinability and surface finish, it contains P, S and Pb to improve machinability 
-
-
 What is tool steel?; High speed steel, able to retain hardness at high temperature, widely used for high speed cutting and machining applications, it is highly alloyed with high carbon based steels to form carbides.
-
-
 What is structural steel?; steel that is of high strength and toughness, resistance to softening at high temperature, corrosion resistance and weld-ability 
-
-
 What is Maraging steel?; A special class of steel that is of high strength and high fracture toughness, composition of 20% Ni and 9% Cr and low carbon. The hardness is produced by forming martensite by air cooling, cold working and aging the alloy at 400ºC 
-
-
 What is Hadfield steel?; a special class of steel, that has remarkable resistance to heavy abrasion and shock.
-
-
 What is the composition of Maraging steels?; Low carbon, 20% Ni and 9% Cr
-
-
 How is hardness produced in maraging steels?; Hardness is produced by forming martensite by air cooling, cold working and ageing the alloy at 400°C.
-
-
 What is the main property of stainless steel?; It has corrosion and oxidation resistance
-
-
-What is the corrosion resistant mechanism of stainless steel?; Due to the formation of the Cr2O3
-
-
-To increase oxidation resistance, Cr content needs to increase, true or false.; True
-
-
+What is the corrosion resistant mechanism of stainless steel?; Due to the formation of the Cr2O3To increase oxidation resistance, Cr content needs to increase, true or false.; True
 When will intergranular corrosion happen in stainless steel?; The formation of chromium carbide (Cr3C2) will deplete the Cr content (<12%) thus unable to passivate the S.S. Corrosion will occur along the grain boundaries. 
-
-
 How do we prevent intergranular corrosion?; Reduce carbon content OR Add a carbide former OR Increase Cr content
-
-
 What is a property light alloys are known for?; The strength to weight ratio.
-
-
 What is the disadvantage of using light metals?; The thermal stability of light alloys
-
-
 How does light metals derive their strength?; Solid solution hardening OR Precipitation hardening OR Work hardening
-
-
 What are the crystalline forms in Ti alloys?; Alpha, Beta and Alpha + Beta
-
-
 What stabilises beta phase?; Transitional metals
-
-
 What is a property of alpha alloy in Ti alloys?; It has superior creep resistance. 
-
-
 What are the properties of beta alloys in Ti alloys?; It is stable at high temperature and better fracture toughness. 
-
-
 What is the most common Ti alloy used in aerospace application?; Ti-6Al-4V 
-
-
 What bonds are found in ceramic?; Ionic and covalent bonds
-
-
 Why is ceramic brittle?; With the mixture of both the bonds, it does not allow the movement of dislocations under stress
-
-
 Where Material A has an ionic character of 70% and Material B has an ionic character of 45%, which material has a higher melting point?; Material A 
-
-
 Ionic bonds are highly directional and covalent bonds are non-directional, true or false.; False, as ionic bonds are non-directional and covalent bonds are highly directional.
-
-
 What are the limitations of the arrangement of ions into a variety of crystal structures?; Relative size of the anions and cation and the crystals must be electrically neutral. 
-
-
 In the ceramic crystal structure, the anion is located at the interstitial site while the cation is located at the lattice point, true or false.; False, in the crystal structure, the anion is located at the lattice point while the cation is located at the interstitial site. 
- 
 What makes a ceramic crystal structure stable?; The anion and cation have to be in contact
-
-
 What is the relationship between coordination number and rc/ra ratio.; Coordination numbers increase with rc/ra ratio
-
-
 Are fractures in ceramic usually intergranular or trans-granular.; Trans-granular
-
-
 Is flexure testing or tensile testing preferred for ceramics?; Flexure testing 
-
-
 What is the most dangerous mode of failure?; Opening mode (K1C)
-
-
 What is a material used as a toughening material in ceramic toughening?;  Zirconia
-
-
 How does transformation of tetragonal to monoclinic increase fracture toughness?; The phase transformation can put the crack into compression retarding the crack growth and hence, enhancing transformation toughness. 
-
-
 Roughly outline the mechanism of transformation toughening?; The ceramic matrix is surrounded by the highly stressed tetragonal zirconia. Hence, each tetragonal zirconia is full of energy that wants to be released, thus if the crack tries to form, the highly stress tetragonal zirconia next to the crack tip will be able absorb the stress from the crack and expand and transform back to their stable monoclinic form. This expansion adjacent to the crack causes a compression force on the crack and prevents the crack from advancing. 
-
-
 What are the characteristics of dielectric materials?; It can be polarised in an electric field, it can support an electric field and is a non-metal
-
-
 What is the secondary usage of dielectrics?; The secondary usage is as an insulator
-
-
 What is the primary usage of dielectrics?; The secondary usage is as a capacitor
-
-
 If D= 𝜀E, is dielectric material present or is vacuum present.; The dielectric material is present. 
-
-
 Ferroelectric materials will have a spontaneous polarisation upon cooling above its curie point, true or false.; False, Ferroelectric materials will have a spontaneous polarisation upon cooling below its curie point. 
-
-
 Define piezoelectricity.; It is the ability of certain crystalline materials to develop an electrical charge proportional to a mechanical stress. 
-
-
 Define pyroelectricity.; The polar axis of a pyroelectric material allows a net polarisation to occur when the temperature is changed
-
-
 Define ferroelectricity; Special subset of pyroelectrics, in that their polarisation can be reversed on the application of an electric field. All ferroelectrics are both pyroelectric and piezoelectric. 
-
-
 If it is a pyroelectric, it is also a piezoelectric, true or false. True
-
-
 If it is a piezoelectric, it is also a pyroelectric, true or false.; False
-
-
 If it is a pyroelectric, it is also a ferroelectric, true or false.; False
-
-
 What substitution at the A site of BaTiO3 reduces Curie point?; Sr2+
-
-
 What substitution at the A site of BaTiO3 increases curie point?; Pb2+
