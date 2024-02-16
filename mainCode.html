@@ -28,11 +28,13 @@
     <script>
         import fs
         const fs = require('fs');
-        fs.readFile('Input.txt', (err, data) => {
+        fs.readFile('data.txt', (err, data) => {
             if (err) throw err;
-            console.log(data.toString());
+            data.toString();
         });
-
+        const dataArray = data.split(":");
+        console.log(dataArray)
+            
         // Define your list of questions and answers
         const questionsAndAnswers = [
             { question: "Question 1?", answer: "Answer 1" },
