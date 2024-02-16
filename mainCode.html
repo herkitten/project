@@ -20,15 +20,19 @@
     </style>
 </head>
 <body>
-
-    
-
     <h1>TOWER TITANS: REAL ESTATE RUMBLE</h1>
     <button onclick="generateRandomQuestion()">Get A Question Here!</button>
     <div id="question-container"></div>
     <button id="reveal-answer" onclick="revealAnswer()" style="display: none;">Reveal Answer</button>
 
     <script>
+        import fs
+        const fs = require('fs');
+        fs.readFile('Input.txt', (err, data) => {
+            if (err) throw err;
+            console.log(data.toString());
+        });
+
         // Define your list of questions and answers
         const questionsAndAnswers = [
             { question: "Question 1?", answer: "Answer 1" },
