@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TOWER TITANS: REAL ESTATE RUMBLE TRIVIA</title>
+    <style>
+        h1 {
+            font-size: 100px;
+        }
+        body {
+            font-size: 40px;
+            font-family: Futura, bold;
+            text-align: center;
+            margin: 30px;
+        }
+        #question-container {
+            margin-top: 30px;
+        }
+    </style>
+</head>
+<body>
+
+    
+
+    <h1>TOWER TITANS: REAL ESTATE RUMBLE</h1>
+    <button onclick="generateRandomQuestion()">Get A Question Here!</button>
+    <div id="question-container"></div>
+    <button id="reveal-answer" onclick="revealAnswer()" style="display: none;">Reveal Answer</button>
+
+    <script>
+        // Define your list of questions and answers
+        const questionsAndAnswers = [
+            { question: "Question 1?", answer: "Answer 1" },
+            { question: "Question 2?", answer: "Answer 2" },
+            { question: "Question 3?", answer: "Answer 3" },
+            // Add more questions as needed
+        ];
+
+        let currentQuestionIndex = 0;
+
+        function generateRandomQuestion() {
+            // Shuffle the array to get a random order
+            const shuffledQuestions = [...questionsAndAnswers].sort(() => Math.random() - 0.5);
+
+            // Display the question without the answer
+            const questionContainer = document.getElementById("question-container");
+            questionContainer.innerHTML = `<p><strong>Question:</strong> ${shuffledQuestions[0].question}</p>`;
+            
+            // Store the index of the current question
+            currentQuestionIndex = questionsAndAnswers.findIndex(q => q === shuffledQuestions[0]);
+
+            // Show the "Reveal Answer" button
+            document.getElementById("reveal-answer").style.display = "inline";
+        }
+
+        function revealAnswer() {
+            // Display the answer for the current question
+            const questionContainer = document.getElementById("question-container");
+            questionContainer.innerHTML += `<p><strong>Answer:</strong> ${questionsAndAnswers[currentQuestionIndex].answer}</p>`;
+
+            // Hide the "Reveal Answer" button
+            document.getElementById("reveal-answer").style.display = "none";
+        }
+    </script>
+</body>
+</html>
