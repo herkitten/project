@@ -17,3 +17,5 @@ function extractData() {
         console.log(dictionaryArray);
     });
 }
+
+extractData()

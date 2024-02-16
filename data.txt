@@ -1,4 +1,4 @@
-What are unit cells?; They are the smallest/simplest ‘repeating units’ of the material
+﻿What are unit cells?; They are the smallest/simplest ‘repeating units’ of the material
 What is the definition of coordination Numbers (CN)?; It is the number of nearest neighbour atoms surrounding a whole/full atom
 Name a type of unit cell and list their corresponding number of whole atoms in the unit cell (n).; Face-centred cubic (FCC) n=4 OR Body-centred cubic (BCC) n=2 OR Hexagonal close-packed (HCP) n=6
 Name a type of unit cell and list their corresponding coordination number (CN); Face-centred cubic (FCC) CN=12 OR Body-centred cubic (BCC) CN=8 OR Hexagonal close-packed (HCP) CN=12
