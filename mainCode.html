@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -8,40 +9,29 @@
         h1 {
             font-size: 30x;
         }
+
         body {
             font-size: 10px;
             font-family: Futura, bold;
             text-align: center;
             margin: 30px;
         }
+
         #question-container {
             margin-top: 30px;
         }
     </style>
 </head>
+
 <body>
     <h1>TOWER TITANS: REAL ESTATE RUMBLE</h1>
     <button onclick="generateRandomQuestion()">Get A Question Here!</button>
     <div id="question-container"></div>
     <button id="reveal-answer" onclick="revealAnswer()" style="display: none;">Reveal Answer</button>
 
-    <script>
-        import fs
-        const fs = require('fs');
-        fs.readFile('data.txt', (err, data) => {
-            if (err) throw err;
-            data.toString();
-        });
-        const dataArray = data.split(":");
-        console.log(dataArray)
-            
+    <script type="module" src="data.js">
         // Define your list of questions and answers
-        const questionsAndAnswers = [
-            { question: "Question 1?", answer: "Answer 1" },
-            { question: "Question 2?", answer: "Answer 2" },
-            { question: "Question 3?", answer: "Answer 3" },
-            // Add more questions as needed
-        ];
+        const questionsAndAnswers = [extractData()];
 
         let currentQuestionIndex = 0;
 
@@ -52,7 +42,7 @@
             // Display the question without the answer
             const questionContainer = document.getElementById("question-container");
             questionContainer.innerHTML = `<p><strong>Question:</strong> ${shuffledQuestions[0].question}</p>`;
-            
+
             // Store the index of the current question
             currentQuestionIndex = questionsAndAnswers.findIndex(q => q === shuffledQuestions[0]);
 
@@ -70,4 +60,5 @@
         }
     </script>
 </body>
+
 </html>
